@@ -1,0 +1,29 @@
+back = tab
+start = esc
+a = \"
+b = \"
+x = \"
+y = \"
+l1 = mouse_right
+l2 = a
+r1 = mouse_left
+r2 = e
+l3 = \"
+r3 = \"
+up = \"
+down = \"
+left = \"
+right = \"
+
+left_analog_up = \"
+left_analog_down = \"
+left_analog_left = \"
+left_analog_right = \"
+
+deadzone_mode = scaled_radial
+deadzone = 2000
+deadzone_scale = 8
+
+right_analog_up = mouse_movement_up
+
+mouse_scale = 4096
