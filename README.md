@@ -26,16 +26,16 @@ On the first launch the script will help you setup the game. The mouse is mapped
 All set ! You can enjoy Thief Gold with full cutscenes and controller support now !
 You can now delete the .exe files in the port's data folder.
 # Controls
-Left stick : move forward, strafe left/right, backward
-Right Stick : mouse look
-R1 : left click
-L1 : right click
-L2 : quick load
-R2 : quick save
-L3 : crouch
-Dpad up/down : change weapon
-Dpad left/right : change object
-A : unmapped
-B : jump
-X : clear weapon
-Y : drop object in hands
+- Left stick : move forward, strafe left/right, backward
+- Right Stick : mouse look
+- R1 : left click
+- L1 : right click
+- L2 : quick load
+- R2 : quick save
+- L3 : crouch
+- Dpad up/down : change weapon
+- Dpad left/right : change object
+- A : unmapped
+- B : jump
+- X : clear weapon
+- Y : drop object in hands
