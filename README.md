@@ -16,7 +16,7 @@ This script is built around the RG552 device with Rocknix, it should be compatib
 ## Setup process
 
 On the first launch the script will help you setup the game. The mouse is mapped to the right joystick with L1 and R1 as mouse buttons. You will have to perform some actions manually :
-- **Launch winecfg**. You have to override ir50_32 dll in the "libraries" tab. Then check "Emulate a virtual desktop" and set the resolution to 960x592. Once done, click apply then OK
+- **Launch winecfg**. You have to override ir50_32 dll in the "libraries" tab. Then check "Emulate a virtual desktop" and set the resolution to 960x576. Once done, click apply then OK
 - **Install the game with GOG installer**. Click "options" then change the game installation folder to **C:\thief**, then proceed with the installation. The keyboard is no more necessary from this point.
 - **Install TFix 1.27b patch**. Click "browse" and choose the game installation folder **C:\thief**, proceed with the update. During the installation you will be prompted to disable anti-aliasing, keep it turned off for performances purpose.
 - **(Only if the installation file is present) Install the French translation community patch**. Indicate the game installation folder **C:\thief** and proceed with the update.
